@@ -7,6 +7,7 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-zapien/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook%20-%230077B5.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:zapiencg@outlook.com)
 
 ### :keyboard: Tools:
 
