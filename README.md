@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 - :us: US Marine Corps Veteran
-- :computer: Currently attending VSchool Bootcamp.
+- :computer: VSchool Bootcamp graduate.
 - :earth_americas: Looking to break into Tech!
 - :wrench: Fun Fact: Currently rebuilding a 1964 Impala
 
