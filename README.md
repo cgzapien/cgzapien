@@ -2,7 +2,6 @@
 
 - :us: US Marine Corps Veteran
 - :computer: Brooklyn Bedding Software Developer.
-- :earth_americas: Broke into Tech!
 - :wrench: Fun Fact: Currently rebuilding a 1964 Impala
 
 ### Connect with me:
