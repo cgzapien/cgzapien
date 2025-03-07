@@ -1,24 +1,5 @@
 ### Hello there! 👋
+With 2+ years of experience, I specialize in Front-End and Back-End features using Next.js, React, Redux, Python (FastAPI), Java (Spring Boot), and MySQL, while leveraging AWS, Azure, and CI/CD pipelines with GitHub Actions to ensure efficient and reliable deployments.
 
-- :us: US Marine Corps Veteran
-- :computer: Brooklyn Bedding Software Developer.
-- :wrench: Fun Fact: Currently rebuilding a 1964 Impala
+Before becoming a Software Developer, I served as a Field Artilleryman in the US Marine Corps, where I earned the Navy and Marine Corps Achievement Medal for my professional performance and accuracy. I also obtained certifications in Emergency Medical Technology and Motorcycle Maintenance and Repair, demonstrating my versatility and eagerness to learn new skills. I am proud to be a Latino in Tech and look forward to connecting with other professionals who share my values and goals.
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-zapien/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook%20-%230077B5.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:zapiencg@outlook.com)
-
-<!-- ### :keyboard: Tools: -->
-
-### Frontend:
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-blueviolet)
-
-### Backend:
-![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
